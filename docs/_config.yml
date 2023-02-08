@@ -21,9 +21,7 @@
 title: The V Formation
 email: donghwi.lee@magpiesys.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some long-distance flying birds fly in a V formation which is energy
-  efficient. And they take turns to lead. We follow leaders and
-  wait to lead the flock.
+  Some long-distance flying birds fly in a V formation which is energy efficient. And they take turns to lead. We follow leaders and wait to lead the flock.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://magpielee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: magpielee.github.io
